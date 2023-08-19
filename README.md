@@ -3,8 +3,8 @@
 Вы можете создавать свои темы для сайта oovg.vercel.app.
 
 **Как это сделать?**
-1. Скопировать light.css
-2. Переименовать свой файл в имя темы light copy.css -> theme-name.css
+1. Скопировать **light.css**
+2. Переименовать свой файл в имя темы **light copy.css** -> **theme-name.css**
 3. Вписать свои цвета.
 4. Составить паллетку цветов на сайте [coolors.co](https://coolors.co/ffffff-000000)
-5. Создать Pull Request с вашей темой
+5. Создать **Pull Request** с вашей темой
