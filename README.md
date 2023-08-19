@@ -6,4 +6,4 @@
 1. Скопировать light.css
 2. Переименовать свой файл в имя темы light copy.css -> theme-name.css
 3. Вписать свои цвета.
-4. Составить паллетку цветов на сайте https://coolors.co/ffffff-000000
+4. Составить паллетку цветов на сайте (https://coolors.co/ffffff-000000)[coolors.co]
